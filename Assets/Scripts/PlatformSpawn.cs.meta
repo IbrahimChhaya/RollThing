@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cc8fe02ce85708e47becb2f6ffff039e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - extendedPlatform: {instanceID: 0}
+  - extendedPlatform2: {instanceID: 0}
+  - platform: {fileID: 742409224305429777, guid: b33bb112538670e46aabbb93d45e4475,
+      type: 3}
+  - diamond: {fileID: 5414463495843151023, guid: 664b9c02b4b94cb46a82a12e66e6c87f,
+      type: 3}
+  - magnet: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
