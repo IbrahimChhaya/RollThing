@@ -14,6 +14,7 @@ A High Score tally is stored locally.
 <p align="center">
       <img width="300" src="/Screens/Gameplay.png">
 </p>
+Randomly generated platforms that fall after the ball moves away from them. When hit, yellow pickups produce bonus points.
 
 ## High Score
 <p align="center">
